@@ -63,7 +63,11 @@ button{
     border-style: solid;
    
 }
-.b1{
+.buttons{
+    font-size: 40px;
+    margin-left: 500px
+}
+/*.b1{
     margin-left: 750px;
     font-size: 40px;
     
@@ -75,4 +79,4 @@ button{
 }
 .b3{
     margin-left: 50px;
-}
+}*/
